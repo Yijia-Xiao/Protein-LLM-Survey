@@ -4,9 +4,9 @@
 [![Survey](https://img.shields.io/badge/Survey-ProteinLLM-blue)](https://github.com/Yijia-Xiao/Protein-LLM-Survey) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-### I. LLM Methods for Protein Engineering and Generation
+## LLM Methods for Protein Engineering and Generation
 
-#### Generative Models (Protein Decoder)
+### Generative Models (Protein Decoder)
 - **Large language models generate functional protein sequences across diverse families**  
   Treats protein engineering as an unsupervised sequence generation task, conditioning on annotations such as molecular function or taxonomy.  
   *Nature Biotechnology, 2023*  
@@ -29,7 +29,7 @@
   [[paper](https://www.nature.com/articles/s41467-024-50903-y)]
 
 
-#### Protein Encoder Models
+### Protein Encoder Models
 - **ProtST: Multi-modality Learning of Protein Sequences and Biomedical Texts**  
   Leverages both protein (e.g. ESM, ProtBert) and biomedical (PubMedBERT) language models to jointly learn from protein sequences and their natural-language annotations.  
   *ICML 2023*  
@@ -46,7 +46,7 @@
   [[paper](https://arxiv.org/abs/2108.07435)]
 
 
-#### II. Encoder-Decoder Models
+### Encoder-Decoder Models
 - **ProstT5: Bilingual Modeling of Protein Sequence and Structure**  
   Simultaneously extracts features from both the 1D protein sequence and its 3D structure using a T5-based architecture combined with ProtT5 improvements, enabling tasks such as remote homology detection and structure–sequence translation.  
   *bioRxiv, 2023*  
@@ -60,7 +60,7 @@
   *arXiv, 2023*  
   [[paper](https://arxiv.org/abs/2301.06568)]
 
-#### Interactive and Multimodal Models
+### Interactive and Multimodal Models
 - **ProtChatGPT: Towards Understanding Proteins with Large Language Models**  
   Provides an interactive interface where users can upload protein data and query properties; the system aligns protein embeddings with a language model to generate insightful responses.  
   *arXiv, 2024*  
@@ -79,9 +79,9 @@
   [[paper](https://arxiv.org/abs/2302.04611)]
 
 
-### LLM Methods for Protein Understanding and Prediction
+## LLM Methods for Protein Understanding and Prediction
 
-#### Protein Sequence Models
+### Protein Sequence Models
 - **Learning protein sequence embeddings using information from structure**  
   *arXiv preprint, 2019*  
   [[paper](https://arxiv.org/abs/1902.08661)]
@@ -111,7 +111,7 @@
   [[paper](https://science.sciencemag.org/content/371/6526/284)]
 
 
-#### Evolutionary Scale Modeling (ESM) Series
+### Evolutionary Scale Modeling (ESM) Series
 - **Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences**  
   *PNAS, 2021*  
   [[paper](https://doi.org/10.1073/pnas.2016239118)]
@@ -140,7 +140,7 @@
   *Science, 2023*  
   [[paper](https://www.science.org/doi/10.1126/science.ade2574)]
 
-#### MSA-based Models
+### MSA-based Models
 - **MSA transformer**  
   *ICML, 2021*  
   [[paper](https://proceedings.mlr.press/v139/rao21a.html)]
@@ -148,7 +148,7 @@
   *ICML, 2022*  
   [[paper](https://proceedings.mlr.press/v162/notin22a/notin22a.pdf)]
 
-#### Cross Modality Models
+### Cross Modality Models
 - **Prot2text: Multimodal protein’s function generation with gnns and transformers**  
   *AAAI, 2024*  
   [[paper](https://arxiv.org/abs/2307.14367)]
@@ -165,7 +165,7 @@
   *arXiv preprint, 2025*  
   [[paper](https://arxiv.org/abs/2502.01074)]
 
-#### Structure-Integrated Models
+### Structure-Integrated Models
 - **A systematic study of joint representation learning on protein sequences and structures**  
   *arXiv preprint, 2023*  
   [[paper](https://arxiv.org/abs/2303.06275)]
@@ -182,7 +182,7 @@
   *bioRxiv, 2022*  
   [[paper](https://www.biorxiv.org/content/10.1101/2022.02.07.479398v5)]
 
-#### Knowledge-Enhanced Models
+### Knowledge-Enhanced Models
 - **OntoProtein: Protein Pretraining With Gene Ontology Embedding**  
   *ICLR, 2022*  
   [[paper](https://arxiv.org/abs/2201.11147)]

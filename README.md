@@ -121,8 +121,6 @@
   *Nature Communications, 2023*  [[paper](https://www.nature.com/articles/s41467-023-36476-2)]
 - **Biot5: Enriching cross-modal integration in biology with chemical knowledge and natural language associations**  
   *arXiv preprint, 2023*  [[paper](https://arxiv.org/abs/2310.07276)]
-- **Omni-Mol: Exploring Universal Convergent Space for Omni-Molecular Tasks**  
-  *arXiv preprint, 2025*  [[paper](https://arxiv.org/abs/2502.01074)]
 
 ### Structure-Integrated Models
 - **A systematic study of joint representation learning on protein sequences and structures**  

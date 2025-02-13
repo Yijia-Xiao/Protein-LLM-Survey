@@ -139,3 +139,5 @@
   *ICLR, 2022*  [[paper](https://arxiv.org/abs/2201.11147)]
 - **ProteinCLIP: enhancing protein language models with natural language**  
   *bioRxiv, 2024*  [[paper](https://www.biorxiv.org/content/10.1101/2024.05.14.594226v1)]
+
+  ---

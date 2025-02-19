@@ -4,65 +4,6 @@
 [![Survey](https://img.shields.io/badge/Survey-ProteinLLM-blue)](https://github.com/Yijia-Xiao/Protein-LLM-Survey) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-## LLM Methods for Protein Engineering and Generation
-
-### Generative Models (Protein Decoder)
-- **Large language models generate functional protein sequences across diverse families**  
-  Treats protein engineering as an unsupervised sequence generation task, conditioning on annotations such as molecular function or taxonomy.  
-  *Nature Biotechnology, 2023*  [[paper](https://www.nature.com/articles/s41587-022-01618-2)]
-- **ProtGPT2: Deep Unsupervised Language Model for Protein Design**  
-  Generates de novo protein sequences with natural amino acid compositions via autoregressive modeling, exploring uncharted areas of the protein sequence space.  
-  *Nature Communications, 2022*  [[paper](https://www.nature.com/articles/s41467-022-32007-7)]
-- **ProGen2: Exploring the Boundaries of Protein Language Models**  
-  An extended version of ProGen with a larger model (6.4B parameters) and training dataset, capable of predicting protein fitness without extra fine-tuning.  
-  *Cell Systems, 2023*  [[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00272-7)]
-- **IgLM: Infilling Language Modeling for Antibody Sequence Design**  
-  Specializes in antibody generation by conditioning on chain type and species, with the ability to generate infilled residue spans at indicated positions.  
-  *Cell Systems, 2023*  [[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00271-5)]
-- **PALM-H3: Targeted Antibody Generation for SARS-CoV-2**  
-  Focuses on generating antibodies specifically targeted for SARS-CoV-2, demonstrating the potential of decoder-based models in designing focused therapeutics.  
-  *Nature Communications, 2024*  [[paper](https://www.nature.com/articles/s41467-024-50903-y)]
-
-
-### Protein Encoder Models
-- **ProtST: Multi-modality Learning of Protein Sequences and Biomedical Texts**  
-  Leverages both protein (e.g. ESM, ProtBert) and biomedical (PubMedBERT) language models to jointly learn from protein sequences and their natural-language annotations.  
-  *ICML 2023*  [[paper](https://arxiv.org/abs/2301.12040)]
-- **ProteinBERT: a universal deep-learning model of protein sequence and function**  
-- **Bertology meets biology: Interpreting attention in protein language models**  
-  *arXiv preprint, 2020*  [[paper](https://arxiv.org/abs/2006.15222)]
-- **Prottrans: Toward understanding the language of life through self-supervised learning**  
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021*  [[paper](https://ieeexplore.ieee.org/document/9477085)]
-- **Modeling protein using large-scale pretrain language model**  
-  *arXiv preprint, 2021*  [[paper](https://arxiv.org/abs/2108.07435)]
-
-
-### Encoder-Decoder Models
-- **ProstT5: Bilingual Modeling of Protein Sequence and Structure**  
-  Simultaneously extracts features from both the 1D protein sequence and its 3D structure using a T5-based architecture combined with ProtT5 improvements, enabling tasks such as remote homology detection and structure–sequence translation.  
-  *bioRxiv, 2023*  [[paper](https://www.biorxiv.org/content/10.1101/2023.07.23.550085v2)]
-- **Fold2Seq: A Joint Sequence–Fold Embedding-based Generative Model for Protein Design**  
-  Learns structure–sequence relationships using a multi-step training framework that includes fold-to-sequence reconstruction and fold classification.  
-  *ICML 2021*  [[paper](https://proceedings.mlr.press/v139/cao21a.html)]
-- **Ankh: Optimized Protein Language Model for Efficient Generation**  
-  An encoder-decoder model designed for efficiency and optimization with fewer parameters, focusing on general protein generation rather than explicit structure–sequence translation.  
-  *arXiv, 2023*  [[paper](https://arxiv.org/abs/2301.06568)]
-
-### Interactive and Multimodal Models
-- **ProtChatGPT: Towards Understanding Proteins with Large Language Models**  
-  Provides an interactive interface where users can upload protein data and query properties; the system aligns protein embeddings with a language model to generate insightful responses.  
-  *arXiv, 2024*  [[paper](https://arxiv.org/abs/2402.09649)]
-- **ProteinChat: ChatGPT-like Functionalities on Protein 3D Structures**  
-  Accepts protein 3D structures as input to allow users to query detailed properties and functional insights.  
-  *Authorea Preprints, 2023*  [[paper](https://www.techrxiv.org/users/691610/articles/682177-proteinchat-towards-achieving-chatgpt-like-functionalities-on-protein-3d-structures)]
-- **ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding**  
-  Integrates protein data with natural language inputs for enhanced alignment and conversation-based inquiry.  
-  *arXiv, 2024*  [[paper](https://arxiv.org/abs/2408.11363)]
-- **ProteinDT: A Text-guided Protein Design Framework**  
-  Robustly integrates textual protein knowledge with sequence-based generative modeling via contrastive alignment and a facilitator module, enabling zero-shot text-to-protein generation and editing.  
-  *arXiv, 2023*  [[paper](https://arxiv.org/abs/2302.04611)]
-
-
 ## LLM Methods for Protein Understanding and Prediction
 
 ### Protein Sequence Models
@@ -140,4 +81,69 @@
 - **ProteinCLIP: enhancing protein language models with natural language**  
   *bioRxiv, 2024*  [[paper](https://www.biorxiv.org/content/10.1101/2024.05.14.594226v1)]
 
-  ---
+
+## LLM Methods for Protein Engineering and Generation
+
+### Generative Models (Protein Decoder)
+- **Large language models generate functional protein sequences across diverse families**  
+  Treats protein engineering as an unsupervised sequence generation task, conditioning on annotations such as molecular function or taxonomy.  
+  *Nature Biotechnology, 2023*  [[paper](https://www.nature.com/articles/s41587-022-01618-2)]
+- **ProtGPT2: Deep Unsupervised Language Model for Protein Design**  
+  Generates de novo protein sequences with natural amino acid compositions via autoregressive modeling, exploring uncharted areas of the protein sequence space.  
+  *Nature Communications, 2022*  [[paper](https://www.nature.com/articles/s41467-022-32007-7)]
+- **ProGen2: Exploring the Boundaries of Protein Language Models**  
+  An extended version of ProGen with a larger model (6.4B parameters) and training dataset, capable of predicting protein fitness without extra fine-tuning.  
+  *Cell Systems, 2023*  [[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00272-7)]
+- **IgLM: Infilling Language Modeling for Antibody Sequence Design**  
+  Specializes in antibody generation by conditioning on chain type and species, with the ability to generate infilled residue spans at indicated positions.  
+  *Cell Systems, 2023*  [[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00271-5)]
+- **PALM-H3: Targeted Antibody Generation for SARS-CoV-2**  
+  Focuses on generating antibodies specifically targeted for SARS-CoV-2, demonstrating the potential of decoder-based models in designing focused therapeutics.  
+  *Nature Communications, 2024*  [[paper](https://www.nature.com/articles/s41467-024-50903-y)]
+
+
+### Protein Encoder Models
+- **ProtST: Multi-modality Learning of Protein Sequences and Biomedical Texts**  
+  Leverages both protein (e.g. ESM, ProtBert) and biomedical (PubMedBERT) language models to jointly learn from protein sequences and their natural-language annotations.  
+  *ICML 2023*  [[paper](https://arxiv.org/abs/2301.12040)]
+- **ProteinBERT: a universal deep-learning model of protein sequence and function**  
+- **Bertology meets biology: Interpreting attention in protein language models**  
+  *arXiv preprint, 2020*  [[paper](https://arxiv.org/abs/2006.15222)]
+- **Prottrans: Toward understanding the language of life through self-supervised learning**  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021*  [[paper](https://ieeexplore.ieee.org/document/9477085)]
+- **Modeling protein using large-scale pretrain language model**  
+  *arXiv preprint, 2021*  [[paper](https://arxiv.org/abs/2108.07435)]
+
+
+### Encoder-Decoder Models
+- **ProstT5: Bilingual Modeling of Protein Sequence and Structure**  
+  Simultaneously extracts features from both the 1D protein sequence and its 3D structure using a T5-based architecture combined with ProtT5 improvements, enabling tasks such as remote homology detection and structure–sequence translation.  
+  *bioRxiv, 2023*  [[paper](https://www.biorxiv.org/content/10.1101/2023.07.23.550085v2)]
+- **Fold2Seq: A Joint Sequence–Fold Embedding-based Generative Model for Protein Design**  
+  Learns structure–sequence relationships using a multi-step training framework that includes fold-to-sequence reconstruction and fold classification.  
+  *ICML 2021*  [[paper](https://proceedings.mlr.press/v139/cao21a.html)]
+- **Ankh: Optimized Protein Language Model for Efficient Generation**  
+  An encoder-decoder model designed for efficiency and optimization with fewer parameters, focusing on general protein generation rather than explicit structure–sequence translation.  
+  *arXiv, 2023*  [[paper](https://arxiv.org/abs/2301.06568)]
+
+### Interactive and Multimodal Models
+- **ProtChatGPT: Towards Understanding Proteins with Large Language Models**  
+  Provides an interactive interface where users can upload protein data and query properties; the system aligns protein embeddings with a language model to generate insightful responses.  
+  *arXiv, 2024*  [[paper](https://arxiv.org/abs/2402.09649)]
+- **ProteinChat: ChatGPT-like Functionalities on Protein 3D Structures**  
+  Accepts protein 3D structures as input to allow users to query detailed properties and functional insights.  
+  *Authorea Preprints, 2023*  [[paper](https://www.techrxiv.org/users/691610/articles/682177-proteinchat-towards-achieving-chatgpt-like-functionalities-on-protein-3d-structures)]
+- **ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding**  
+  Integrates protein data with natural language inputs for enhanced alignment and conversation-based inquiry.  
+  *arXiv, 2024*  [[paper](https://arxiv.org/abs/2408.11363)]
+- **ProteinDT: A Text-guided Protein Design Framework**  
+  Robustly integrates textual protein knowledge with sequence-based generative modeling via contrastive alignment and a facilitator module, enabling zero-shot text-to-protein generation and editing.  
+  *arXiv, 2023*  [[paper](https://arxiv.org/abs/2302.04611)]
+
+
+## Traditional Experimental Methods for Protein
+### 
+
+
+## Protein Datasets: Training Data and Benchmarks
+### 

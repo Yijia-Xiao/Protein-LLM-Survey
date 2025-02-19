@@ -109,12 +109,29 @@
 
 
 ## Traditional Experimental Methods for Protein
-### Example Table
+### X-ray Crystallography
 
 | Paper | Published in | Resources |
 |-------|:------------:|:---------:|
-| [ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding](https://arxiv.org/abs/2408.11363) | *arXiv, 2024* | [Code](GITHUB_LINK) |
-| [ProteinChat: ChatGPT-like Functionalities on Protein 3D Structures](https://www.techrxiv.org/users/691610/articles/682177-proteinchat-towards-achieving-chatgpt-like-functionalities-on-protein-3d-structures) | *Authorea Preprints, 2023* | [Code](GITHUB_LINK) |
+| [Artificial intelligence to solve the X-ray crystallography phase problem: a case study report](https://www.biorxiv.org/content/10.1101/2021.12.14.472726v1.full) | *BiorXiv, 2021* | N/A |
+
+### Nuclear Magnetic Resonance (NMR) Spectroscopy
+
+| Paper | Published in | Resources |
+|-------|:------------:|:---------:|
+| [FID-Net: A versatile deep neural network architecture for NMR spectral reconstruction and virtual decoupling](https://link.springer.com/article/10.1007/s10858-021-00366-w) | *Journal of Biomolecular NMR, 2021* | [Code](https://github.com/gogulan-k/FID-Net) |
+| [Accelerated Nuclear Magnetic Resonance Spectroscopy with Deep Learning](https://arxiv.org/abs/1904.05168) | *Angewandte Chemie, 2020* | [Code](https://github.com/PiotrKlukowski/ARTINA) |
+
+
+### Cryo-EM
+
+| Paper | Published in | Resources |
+|-------|:------------:|:---------:|
+| [CryoDRGN: reconstruction of heterogeneous cryo-EM structures using neural networks](https://www.nature.com/articles/s41592-020-01049-4) | *Nature Methods, 2021* | [Code](https://www.nature.com/articles/s41592-020-01049-4) |
+| [CryoGAN: A New Reconstruction Paradigm for Single-Particle Cryo-EM Via Deep Adversarial Learning](https://ieeexplore.ieee.org/document/9483649) | *IEEE Transactions on Computational Imaging , 2021* | [Code](https://ieeexplore.ieee.org/document/9483649) |
+| [Deep learning-based mixed-dimensional Gaussian mixture model for characterizing variability in cryo-EM](https://www.nature.com/articles/s41592-021-01220-5) | *Nature Methods, 2021* | [Code](https://github.com/phonchi/Computational-CryoEM) |
+| [3dflex: determining structure and motion of flexible proteins from cryo-em](https://www.nature.com/articles/s41592-023-01853-8) | *Nature Methods, 2023* | [Code](https://www.nature.com/articles/s41592-023-01853-8) |
+| [Cryostar: leveraging structural priors and constraints for cryo-em heterogeneous reconstruction](https://www.nature.com/articles/s41592-024-02486-1) | *Nature Methods, 2024* | [Code](https://www.nature.com/articles/s41592-024-02486-1) |
 
 
 ## Protein Datasets: Training Data and Benchmarks

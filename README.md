@@ -80,6 +80,7 @@
 | [ProGen2: Exploring the Boundaries of Protein Language Models](https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00272-7) | *Cell Systems, 2023* | [Code](https://github.com/enijkamp/progen2) |
 | [IgLM: Infilling Language Modeling for Antibody Sequence Design](https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00271-5) | *Cell Systems, 2023* | [Code](https://github.com/Graylab/IgLM) |
 | [PALM-H3: Targeted Antibody Generation for SARS-CoV-2](https://www.nature.com/articles/s41467-024-50903-y) | *Nature Communications, 2024* | [Code](https://github.com/TencentAILabHealthcare/PALM) |
+| [Integrating protein language models and automatic biofoundry for enhanced protein evolution](https://www.nature.com/articles/s41467-025-56751-8) | *Nature Communications, 2025* | [Code](https://github.com/HICAI-ZJU/PLMeAE_Project) |
 
 ### Protein Encoder Models
 

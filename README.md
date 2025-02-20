@@ -85,7 +85,7 @@
 
 | Paper | Published in | Resources |
 |-------|:------------:|:---------:|
-| [ProtST: Multi-modality Learning of Protein Sequences and Biomedical Texts](https://arxiv.org/abs/2301.12040) | *ICML 2023* | [Code](GITHUB_LINK) |
+| [ProtST: Multi-modality Learning of Protein Sequences and Biomedical Texts](https://arxiv.org/abs/2301.12040) | *ICML 2023* | [Code](https://github.com/DeepGraphLearning/ProtST) |
 | [ProteinBERT: a universal deep-learning model of protein sequence and function](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274) | *Bioinformatics, 2022* | [Code](GITHUB_LINK) |
 | [Bertology meets biology: Interpreting attention in protein language models](https://arxiv.org/abs/2006.15222) | *arXiv preprint, 2020* | [Code](GITHUB_LINK) |
 | [Prottrans: Toward understanding the language of life through self-supervised learning](https://ieeexplore.ieee.org/document/9477085) | *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021* | [Code](GITHUB_LINK) |

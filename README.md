@@ -16,7 +16,7 @@
 | [Prottrans: Toward understanding the language of life through self-supervised learning](https://ieeexplore.ieee.org/document/9477085) | *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021* | [Code](GITHUB_LINK) |
 | [Modeling protein using large-scale pretrain language model](https://arxiv.org/abs/2108.07435) | *arXiv preprint, 2021* | [Code](GITHUB_LINK) |
 | [Single-sequence protein structure prediction using a language model and deep learning](https://www.nature.com/articles/s41587-022-01432-w) | *Nature Biotechnology, 2022* | [Code](GITHUB_LINK) |
-| [ProteinBERT: a universal deep-learning model of protein sequence and function](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274) | *Bioinformatics, 2022* | [Code](GITHUB_LINK) |
+| [ProteinBERT: a universal deep-learning model of protein sequence and function](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274) | *Bioinformatics, 2022* | [Code](https://github.com/nadavbra/protein_bert) |
 | [Prollama: A protein large language model for multi-task protein language processing](https://arxiv.org/abs/2402.16445) | *arXiv e-prints, 2024* | [Code](GITHUB_LINK) |
 | [Bertology meets biology: Interpreting attention in protein language models](https://arxiv.org/abs/2006.15222) | *arXiv preprint, 2020* | [Code](GITHUB_LINK) |
 | [Learning the language of viral evolution and escape](https://science.sciencemag.org/content/371/6526/284) | *Science, 2021* | [Code](GITHUB_LINK) |
@@ -86,7 +86,7 @@
 | Paper | Published in | Resources |
 |-------|:------------:|:---------:|
 | [ProtST: Multi-modality Learning of Protein Sequences and Biomedical Texts](https://arxiv.org/abs/2301.12040) | *ICML 2023* | [Code](https://github.com/DeepGraphLearning/ProtST) |
-| [ProteinBERT: a universal deep-learning model of protein sequence and function](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274) | *Bioinformatics, 2022* | [Code](GITHUB_LINK) |
+| [ProteinBERT: a universal deep-learning model of protein sequence and function](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274) | *Bioinformatics, 2022* | [Code](https://github.com/nadavbra/protein_bert) |
 | [Bertology meets biology: Interpreting attention in protein language models](https://arxiv.org/abs/2006.15222) | *arXiv preprint, 2020* | [Code](GITHUB_LINK) |
 | [Prottrans: Toward understanding the language of life through self-supervised learning](https://ieeexplore.ieee.org/document/9477085) | *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021* | [Code](GITHUB_LINK) |
 | [Modeling protein using large-scale pretrain language model](https://arxiv.org/abs/2108.07435) | *arXiv preprint, 2021* | [Code](GITHUB_LINK) |

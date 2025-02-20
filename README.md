@@ -95,9 +95,9 @@
 
 | Paper | Published in | Resources |
 |-------|:------------:|:---------:|
-| [ProstT5: Bilingual Modeling of Protein Sequence and Structure](https://www.biorxiv.org/content/10.1101/2023.07.23.550085v2) | *bioRxiv, 2023* | [Code](GITHUB_LINK) |
-| [Fold2Seq: A Joint Sequence–Fold Embedding-based Generative Model for Protein Design](https://proceedings.mlr.press/v139/cao21a.html) | *ICML 2021* | [Code](GITHUB_LINK) |
-| [Ankh: Optimized Protein Language Model for Efficient Generation](https://arxiv.org/abs/2301.06568) | *arXiv, 2023* | [Code](GITHUB_LINK) |
+| [ProstT5: Bilingual Modeling of Protein Sequence and Structure](https://www.biorxiv.org/content/10.1101/2023.07.23.550085v2) | *bioRxiv, 2023* | [Code](https://github.com/mheinzinger/ProstT5) |
+| [Fold2Seq: A Joint Sequence–Fold Embedding-based Generative Model for Protein Design](https://proceedings.mlr.press/v139/cao21a.html) | *ICML 2021* | [Code](https://github.com/Shen-Lab/Fold2Seq-icml2021) |
+| [Ankh: Optimized Protein Language Model for Efficient Generation](https://arxiv.org/abs/2301.06568) | *arXiv, 2023* | [Code](https://github.com/agemagician/Ankh) |
 
 ### Interactive and Multimodal Models
 

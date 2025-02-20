@@ -103,10 +103,10 @@
 
 | Paper | Published in | Resources |
 |-------|:------------:|:---------:|
-| [ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding](https://arxiv.org/abs/2408.11363) | *arXiv, 2024* | [Code](GITHUB_LINK) |
+| [ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding](https://arxiv.org/abs/2408.11363) | *arXiv, 2024* | [Code](https://huggingface.co/spaces/AI-BIO/ProteinGPT-Llama3) |
 | [ProteinChat: ChatGPT-like Functionalities on Protein 3D Structures](https://www.techrxiv.org/users/691610/articles/682177-proteinchat-towards-achieving-chatgpt-like-functionalities-on-protein-3d-structures) | *Authorea Preprints, 2023* | [Code](GITHUB_LINK) |
 | [ProtChatGPT: Towards Understanding Proteins with Large Language Models](https://arxiv.org/abs/2402.09649) | *arXiv, 2024* | [Code](GITHUB_LINK) |
-| [ProteinDT: A Text-guided Protein Design Framework](https://arxiv.org/abs/2302.04611) | *arXiv, 2023* | [Code](GITHUB_LINK) |
+| [ProteinDT: A Text-guided Protein Design Framework](https://arxiv.org/abs/2302.04611) | *arXiv, 2023* | [Code](https://github.com/chao1224/ProteinDT) |
 
 
 ## Traditional Experimental Methods for Protein

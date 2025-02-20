@@ -1,3 +1,4 @@
+
 # Large Language Models in Protein: A Comprehensive Survey
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/lupantech/dl4math) 
@@ -74,7 +75,7 @@
 
 | Paper | Published in | Resources |
 |-------|:------------:|:---------:|
-| [Large language models generate functional protein sequences across diverse families](https://www.nature.com/articles/s41587-022-01618-2) | *Nature Biotechnology, 2023* | [Code](GITHUB_LINK) |
+| [Large language models generate functional protein sequences across diverse families](https://www.nature.com/articles/s41587-022-01618-2) | *Nature Biotechnology, 2023* | [Code](https://github.com/salesforce/progen) |
 | [ProtGPT2: Deep Unsupervised Language Model for Protein Design](https://www.nature.com/articles/s41467-022-32007-7) | *Nature Communications, 2022* | [Code](GITHUB_LINK) |
 | [ProGen2: Exploring the Boundaries of Protein Language Models](https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00272-7) | *Cell Systems, 2023* | [Code](GITHUB_LINK) |
 | [IgLM: Infilling Language Modeling for Antibody Sequence Design](https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00271-5) | *Cell Systems, 2023* | [Code](GITHUB_LINK) |

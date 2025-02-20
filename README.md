@@ -135,6 +135,30 @@
 
 
 ## Protein Datasets: Training Data and Benchmarks
+### Pretraining Dataset
+| Dataset Name  | Resources |
+|-------|:---------:|
+| UniProtKB/Swiss-Prot |  [link](https://www.uniprot.org/uniprotkb) |
+| UniProtKB/TrEMBL |  [link](https://www.uniprot.org/uniprotkb)   |
+| UniRef Clusters  |  [link](https://www.uniprot.org/uniref/) |
+| Pfam | [link](https://www.ebi.ac.uk/interpro/entry/pfam/#table) |
+| PDB | [link](https://www.rcsb.org/)|
+| BFD | [link](https://bfd.mmseqs.com/) |
+| UniParc | [link](https://www.uniprot.org/help/uniparc) |
+| PIR | [link](https://proteininformationresource.org/) |
+| AlphaFoldDB | [link](https://alphafold.ebi.ac.uk/) |
+### Benchmark
+| Paper | Published in | Resources |
+|-------|:------------:|:---------:|
+| [Critical assessment of methods of protein structure prediction (CASP)—Round XV](https://onlinelibrary.wiley.com/doi/pdf/10.1002/prot.26617) | *Proteins: Structure, Function, and Bioinformatics* | [link](https://predictioncenter.org/) |
+| [ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design](https://proceedings.neurips.cc/paper_files/paper/2023/file/cac723e5ff29f65e3fcbb0739ae91bee-Paper-Datasets_and_Benchmarks.pdf) | *Neurips, 2023* | [code](https://github.com/OATML-Markslab/ProteinGym) |
+| [Evaluating protein transfer learning with tape](https://proceedings.neurips.cc/paper_files/paper/2019/file/37f65c068b7723cd7809ee2d31d7861c-Paper.pdf)| *Neurips, 2019* | [code](https://github.com/songlab-cal/tape) |
+| [CATH–a hierarchic classification of protein domain structures](https://www.cell.com/structure/fulltext/S0969-2126(97)00260-8?cc\u003dy=)| *Structure, 1997* | [link](https://www.cathdb.info/) |
+| [Peer: a comprehensive and multi-task benchmark for protein sequence understanding](https://proceedings.neurips.cc/paper_files/paper/2022/file/e467582d42d9c13fa9603df16f31de6d-Paper-Datasets_and_Benchmarks.pdf) | *Neurips, 2022* | [code](https://github.com/DeepGraphLearning/PEER_Benchmark) |
+| [ExplorEnz: the primary source of the IUBMB enzyme list](https://academic.oup.com/nar/article-pdf/37/suppl_1/D593/3205990/gkn582.pdf) | *Nucleic acids research, 2009* | [link](https://www.enzyme-database.org/) |
+| [HIPPIE: Integrating protein interaction networks with experiment based quality scores](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0031826&type=printable) | *PloS One, 2012* | [link](https://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) |
+| [A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding](https://arxiv.org/pdf/2406.05540) | *arXiv, 2019* | [code](https://github.com/tsynbio/proteinlmdataset) |
+
 ### Example Table
 
 | Paper | Published in | Resources |

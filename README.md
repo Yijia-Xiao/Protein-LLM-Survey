@@ -20,7 +20,7 @@
 | [Bertology meets biology: Interpreting attention in protein language models](https://arxiv.org/abs/2006.15222) | *arXiv preprint, 2020* | [Code](https://github.com/salesforce/provis) |
 | [Learning the language of viral evolution and escape](https://science.sciencemag.org/content/371/6526/284) | *Science, 2021* | [Code](https://github.com/brianhie/viral-mutation) |
 | [TCR-BERT: learning the grammar of T-cell receptors for flexible antigen-xbinding analyses](https://www.biorxiv.org/content/10.1101/2021.11.18.469186v1) | *bioRxiv, 2021* | [Code](https://github.com/wukevin/tcr-bert) |
-| [xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein](https://arxiv.org/abs/2401.06199) | *arXiv e-prints, 2024* | [Model and Data](https://huggingface.co/proteinglm) |
+| [xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein](https://arxiv.org/abs/2401.06199) | *arXiv e-prints, 2024* | [Model&Data](https://huggingface.co/proteinglm) |
 | [Turnover number predictions for kinetically uncharacterized enzymes using machine and deep learning](https://www.nature.com/articles/s41467-023-39840-4) | *Nature Communications, 2023* | [Code](https://github.com/AlexanderKroll/kcat_prediction) |
 | [Enzyme function prediction using contrastive learning](https://www.science.org/doi/10.1126/science.adf2465) | *Science, 2023* | [Code](https://github.com/tttianhao/CLEAN) |
 

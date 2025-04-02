@@ -173,3 +173,12 @@
 | [ExplorEnz: the primary source of the IUBMB enzyme list](https://academic.oup.com/nar/article-pdf/37/suppl_1/D593/3205990/gkn582.pdf) | *Nucleic acids research, 2009* | [Link](https://www.enzyme-database.org/) |
 | [HIPPIE: Integrating protein interaction networks with experiment based quality scores](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0031826&type=printable) | *PloS One, 2012* | [Link](https://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) |
 | [A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding](https://arxiv.org/pdf/2406.05540) | *arXiv, 2019* | [Code](https://github.com/tsynbio/proteinlmdataset) |
+
+
+
+## Protein LLM Biomolecular Interactions
+| Paper | Published in | Resources |
+|-------|:------------:|:---------:|
+| [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w) | *Nature, 8 May 2024* | [Code](https://github.com/google-deepmind/alphafold3) |
+| [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://arxiv.org/abs/2405.06649) | *COLM* | [Code](https://github.com/MingyuJ666/ProLLM) |
+| [Protein-Protein Interaction Networks Derived from Classical and Machine Learning-Based Natural Language Processing Tools](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00535) | *Journal of Proteome Research* | N/A |
